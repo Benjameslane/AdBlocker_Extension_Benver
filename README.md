@@ -1,1 +1,1 @@
-# AdBlocker_Extension_Benver
+init# AdBlocker_Extension_Benver
